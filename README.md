@@ -4,4 +4,4 @@ Cancer is always a major public health problem that threatens human health, espe
 ### Overall
 ![](https://github.com/jiazhuangdiandian/ADG-Net/blob/master/img/1.jpg?raw=true)
 ### Segmentation results
-![](https://github.com/jiazhuangdiandian/ADG-Net/blob/master/img/1.jpg?raw=true)
+![](https://github.com/jiazhuangdiandian/ADG-Net/blob/master/img/2.jpg?raw=true)
